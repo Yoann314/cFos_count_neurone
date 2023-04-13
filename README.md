@@ -25,3 +25,7 @@ The **count_csv_lines.py** script reads all the CSV files in the fluorescence in
 ## Final Notes
 
 This project provides a comprehensive solution for processing and analyzing fluorescence imaging data using ImageJ and Python. It allows researchers to count the number of cells marked with a fluorochrome in the image stacks and extract the number of cells in 3D. It avoids an overestimation of the number of cells to detect by recognizing the 3D shape. moreover, it can very easily be adapted to measure the intensity of fluorescence carried by each cell.
+
+## Author
+
+This program was developed by Yoann Fraysse as part of understanding neocortical engram reorganization during long-term memory consolidation and its alteration in Alzheimer's disease. The purpose of this program is to process a set of images form nanozoomer using the image processing software ImageJ, in order to extract centroid coordinates of 3D objects in each image.
