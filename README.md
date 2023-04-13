@@ -28,4 +28,4 @@ This project provides a comprehensive solution for processing and analyzing fluo
 
 ## Author
 
-This program was developed by Yoann Fraysse as part of understanding neocortical engram reorganization during long-term memory consolidation and its alteration in Alzheimer's disease. The purpose of this program is to process a set of images form nanozoomer using the image processing software ImageJ, in order to extract centroid coordinates of 3D objects in each image.
+This program was developed by **Yoann Fraysse** as part of understanding neocortical engram reorganization during long-term memory consolidation and its alteration in Alzheimer's disease. The purpose of this program is to process a set of images form **nanozoomer** using the image processing software ImageJ, in order to extract centroid coordinates of 3D objects in each image.
