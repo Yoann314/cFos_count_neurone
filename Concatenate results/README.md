@@ -5,7 +5,7 @@ This directory contains CSV files generated from imaging data.
 ## Filename Structure
 
 The filenames follow the format **Results_1231_YYYY-MM-DD_mCherry_1L.tif.csv**, where:
-	#^**1231** is a unique identifier for each sample
+	#^ **1231** is a unique identifier for each sample
 	* **YYYY-MM-DD** is the date when the data was collected
 	* **mCherry** is the name of the protein studied
 	* **1L.tif** is the corresponding image filename
